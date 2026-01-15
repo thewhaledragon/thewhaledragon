@@ -1,4 +1,4 @@
-![Dragon Island](dragon_island.png)
+![Dragon Island](dragon_island.jpg)
 
 Greetings, curious travelers…
 
